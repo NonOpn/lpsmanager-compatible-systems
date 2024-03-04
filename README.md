@@ -1,4 +1,18 @@
-# LPS Manager x Bluestack
+# LPS Manager compatible environments
+
+# MacOS M1+
+
+![macOS](https://img.shields.io/badge/mac%20os-M1%47M2-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+Open the AppStore and search for the `LPS Manager` application. Download it & open it like any
+regular application you may have on your MacOS environment.
+
+You can also [click here](https://apps.apple.com/fr/app/lps-manager/id1550352713) to install it directly (on MacOS environment).
+
+Log into your account or register a new account.
+
+
+# BlueStack
 
 ![Windows 7+](https://img.shields.io/badge/Windows-7+-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
