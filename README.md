@@ -2,7 +2,7 @@
 
 # MacOS M1+
 
-![macOS](https://img.shields.io/badge/mac%20os-M1%47M2-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Apple](https://img.shields.io/badge/Apple-M1-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-M2-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 Open the AppStore and search for the `LPS Manager` application. Download it & open it like any
 regular application you may have on your MacOS environment.
