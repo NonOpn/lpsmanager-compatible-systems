@@ -1,5 +1,7 @@
 # LPS Manager compatible environments
 
+The LPS Manager app is designed to streamline the management of Lightning Protection Lightning Protection Systems (LPS). With its user-friendly interface and comprehensive features, it simplifies tasks such as inventory management, inspection scheduling, and documentation. Through the app, users can easily track the status of installations, schedule maintenance, and generate reports, ensuring compliance with safety standards and regulations. By utilizing LPS Manager, organizations can enhance efficiency, reduce errors, and ensure the safety of their infrastructure against lightning strikes.
+
 # MacOS M1+
 
 ![Apple](https://img.shields.io/badge/Apple-M1-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-M2-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
@@ -12,13 +14,9 @@ You can also [click here](https://apps.apple.com/fr/app/lps-manager/id1550352713
 Log into your account or register a new account.
 
 
-# BlueStack
+# Windows
 
 ![Windows 7+](https://img.shields.io/badge/Windows-7+-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-The LPS Manager app is designed to streamline the management of Lightning Protection Installations (LPS). With its user-friendly interface and comprehensive features, it simplifies tasks such as inventory management, inspection scheduling, and documentation. Through the app, users can easily track the status of installations, schedule maintenance, and generate reports, ensuring compliance with safety standards and regulations. By utilizing LPS Manager, organizations can enhance efficiency, reduce errors, and ensure the safety of their infrastructure against lightning strikes.
-
-# Use via Bluestack
 
 The LPS Manager app can also be seamlessly utilized through Bluestacks, a versatile platform that enables the emulation of Android applications on PC. By leveraging Bluestacks, users can experience several benefits when managing Lightning Protection Installations (LPS). This makes it simpler to oversee intricate details of installations and carry out tasks efficiently. Secondly, Bluestacks allows for precise control using a mouse and keyboard, facilitating smoother interaction with the LPS Manager interface. This precise control is particularly advantageous for tasks such as inputting data, scheduling inspections, and generating reports. Additionally, utilizing LPS Manager through Bluestacks enables seamless integration with other desktop applications, enhancing productivity and workflow management. Overall, leveraging Bluestacks to access the LPS Manager app enhances user experience, efficiency, and functionality, making it an invaluable tool for managing Lightning Protection Installations.
 
