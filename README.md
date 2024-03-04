@@ -1,5 +1,7 @@
 # LPS Manager x Bluestack
 
+![Windows 7+](https://img.shields.io/badge/Windows-7+-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 The LPS Manager app is designed to streamline the management of Lightning Protection Installations (LPS). With its user-friendly interface and comprehensive features, it simplifies tasks such as inventory management, inspection scheduling, and documentation. Through the app, users can easily track the status of installations, schedule maintenance, and generate reports, ensuring compliance with safety standards and regulations. By utilizing LPS Manager, organizations can enhance efficiency, reduce errors, and ensure the safety of their infrastructure against lightning strikes.
 
 # Use via Bluestack
